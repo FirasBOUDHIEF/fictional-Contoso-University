@@ -1,0 +1,1116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\departement\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\departement\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\departement\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\departement\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\departement\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\departement\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\departement\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\departement\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\departement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\departement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\departement\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\departement\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\departement\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\departement\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\contosouniversity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:contosouniversity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\departement\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\departement\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\departement\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\departement\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\departement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\departement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\instructors\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\instructors\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\instructors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\instructors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\instructors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\instructors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\instructors\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\instructors\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\instructors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\instructors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\instructors\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\instructors\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\instructors\\instructorcoursespagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\instructors\\instructorcoursespagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\models\\schoolviewmodels folder\\assignedcoursedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:models\\schoolviewmodels folder\\assignedcoursedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\courses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\courses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\courses\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\courses\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\courses\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\courses\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\courses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\courses\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\courses\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\courses\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\courses\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\courses\\departmentnamepagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\courses\\departmentnamepagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\instructors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\instructors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\instructors\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\instructors\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\instructors\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\instructors\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\instructors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\instructors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\models\\schoolviewmodels folder\\instructorindexdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:models\\schoolviewmodels folder\\instructorindexdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\courses\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\courses\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\students\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\students\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:data\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\students\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\students\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\students\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\students\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\models\\officeassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:models\\officeassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\migrations\\20250727162653_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:migrations\\20250727162653_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\about.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\about.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\models\\schoolviewmodels folder\\enrollmentdategroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:models\\schoolviewmodels folder\\enrollmentdategroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\students\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\students\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\students\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\students\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\migrations\\20250727174819_rowversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:migrations\\20250727174819_rowversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\migrations\\20250727165213_initialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:migrations\\20250727165213_initialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|c:\\users\\skyeg\\onedrive\\documents\\github\\mvcmovie\\contosouniversity\\migrations\\20250727163442_columnfirstname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45BE14C8-8101-47D7-9092-10ECC8F3D1FC}|ContosoUniversity.csproj|solutionrelative:migrations\\20250727163442_columnfirstname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Departement\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Departement\\Details.cshtml",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Departement\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Departement\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T17:51:02.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Departement\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Departement\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Departement\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Departement\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:51:03.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Departement\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Departement\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Departement\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Departement\\Delete.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwCsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T17:51:04.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Departement\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Departement\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Departement\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Departement\\Delete.cshtml.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:51:04.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Departement\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Departement\\Index.cshtml",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Departement\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Departement\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T17:51:05.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Departement\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Departement\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Departement\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Departement\\Edit.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T17:51:01.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Departement\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Departement\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Departement\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Departement\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:51:05.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Departement\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Departement\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Departement\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Departement\\Edit.cshtml.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAQwJYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:51:02.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Utility.cs",
+              "RelativeDocumentMoniker": "Utility.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Utility.cs",
+              "RelativeToolTip": "Utility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:51:24.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContosoUniversity.csproj",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\ContosoUniversity.csproj",
+              "RelativeDocumentMoniker": "ContosoUniversity.csproj",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\ContosoUniversity.csproj",
+              "RelativeToolTip": "ContosoUniversity.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-26T16:18:56.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Departement\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Departement\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Departement\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Departement\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:51:00.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Departement\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Departement\\Create.cshtml",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Departement\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Departement\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T17:50:59.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20250727174819_RowVersion.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Migrations\\20250727174819_RowVersion.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250727174819_RowVersion.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Migrations\\20250727174819_RowVersion.cs",
+              "RelativeToolTip": "Migrations\\20250727174819_RowVersion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:48:28.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InstructorCoursesPageModel.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Instructors\\InstructorCoursesPageModel.cs",
+              "RelativeDocumentMoniker": "Pages\\Instructors\\InstructorCoursesPageModel.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Instructors\\InstructorCoursesPageModel.cs",
+              "RelativeToolTip": "Pages\\Instructors\\InstructorCoursesPageModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:41:39.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Instructors\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Instructors\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Instructors\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Instructors\\Edit.cshtml.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAuwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:17:03.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Instructors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Instructors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Instructors\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Instructors\\Edit.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAuwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T17:17:02.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Instructors\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Instructors\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Instructors\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Instructors\\Create.cshtml.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAuwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:17:02.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Instructors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Instructors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Instructors\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Instructors\\Create.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAuwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T17:17:01.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Instructors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Instructors\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Instructors\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Instructors\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T17:17:03.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Instructors\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Instructors\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Instructors\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Instructors\\Delete.cshtml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAuwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:17:03.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T16:42:36.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssignedCourseData.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Models\\SchoolViewModels folder\\AssignedCourseData.cs",
+              "RelativeDocumentMoniker": "Models\\SchoolViewModels folder\\AssignedCourseData.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Models\\SchoolViewModels folder\\AssignedCourseData.cs",
+              "RelativeToolTip": "Models\\SchoolViewModels folder\\AssignedCourseData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:41:02.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Courses\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Courses\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Courses\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Courses\\Details.cshtml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:10:58.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Courses\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Courses\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Courses\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Courses\\Delete.cshtml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:10:59.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Courses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Courses\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Courses\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Courses\\Edit.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T17:10:56.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Courses\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Courses\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Courses\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Courses\\Edit.cshtml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:10:57.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Courses\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Courses\\Create.cshtml",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Courses\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Courses\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T17:10:55.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Courses\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Courses\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Courses\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Courses\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:10:56.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Courses\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Courses\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Courses\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Courses\\Delete.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T17:10:58.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Courses\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Courses\\Details.cshtml",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Courses\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Courses\\Details.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswCgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T17:10:57.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DepartmentNamePageModel.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Courses\\DepartmentNamePageModel.cs",
+              "RelativeDocumentMoniker": "Pages\\Courses\\DepartmentNamePageModel.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Courses\\DepartmentNamePageModel.cs",
+              "RelativeToolTip": "Pages\\Courses\\DepartmentNamePageModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:31:07.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Instructors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Instructors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Instructors\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Instructors\\Index.cshtml",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAwwHkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T17:17:04.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Instructors\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Instructors\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Instructors\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Instructors\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:17:04.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Instructors\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Instructors\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Instructors\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Instructors\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:17:03.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Instructors\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Instructors\\Details.cshtml",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Instructors\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Instructors\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T17:17:03.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "InstructorIndexData.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Models\\SchoolViewModels folder\\InstructorIndexData.cs",
+              "RelativeDocumentMoniker": "Models\\SchoolViewModels folder\\InstructorIndexData.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Models\\SchoolViewModels folder\\InstructorIndexData.cs",
+              "RelativeToolTip": "Models\\SchoolViewModels folder\\InstructorIndexData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:14:43.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Courses\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Courses\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Courses\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Courses\\Index.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T17:11:00.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Courses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Courses\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Courses\\Index.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvzMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T17:10:59.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20250727165213_InitialCreate2.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Migrations\\20250727165213_InitialCreate2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250727165213_InitialCreate2.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Migrations\\20250727165213_InitialCreate2.cs",
+              "RelativeToolTip": "Migrations\\20250727165213_InitialCreate2.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T16:52:13.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "Models\\Instructor.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Models\\Instructor.cs",
+              "RelativeToolTip": "Models\\Instructor.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvyQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T16:39:50.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:21:06.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20250727163442_ColumnFirstName.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Migrations\\20250727163442_ColumnFirstName.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250727163442_ColumnFirstName.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Migrations\\20250727163442_ColumnFirstName.cs",
+              "RelativeToolTip": "Migrations\\20250727163442_ColumnFirstName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T16:34:42.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Students\\Details.cshtml",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Students\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Students\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T16:37:23.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Students\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Students\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Students\\Details.cshtml.cs",
+              "RelativeToolTip": "Pages\\Students\\Details.cshtml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:37:24.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Data\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "Data\\SchoolContext.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Data\\SchoolContext.cs",
+              "RelativeToolTip": "Data\\SchoolContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:37:20.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Students\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Students\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Students\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Students\\Delete.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T16:37:24.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Students\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Students\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Students\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Students\\Delete.cshtml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:37:25.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Students\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Students\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Students\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Students\\Edit.cshtml.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAuwEEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:37:23.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "OfficeAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Models\\OfficeAssignment.cs",
+              "RelativeDocumentMoniker": "Models\\OfficeAssignment.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Models\\OfficeAssignment.cs",
+              "RelativeToolTip": "Models\\OfficeAssignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T16:41:37.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:46:55.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Models\\Enrollment.cs",
+              "RelativeToolTip": "Models\\Enrollment.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:20:34.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20250727162653_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Migrations\\20250727162653_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250727162653_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Migrations\\20250727162653_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250727162653_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T16:26:54.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:22:47.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:19:26.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "About.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\About.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\About.cshtml.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\About.cshtml.cs",
+              "RelativeToolTip": "Pages\\About.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvyQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T16:23:35.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\About.cshtml",
+              "RelativeDocumentMoniker": "Pages\\About.cshtml",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\About.cshtml",
+              "RelativeToolTip": "Pages\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-27T16:22:46.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "EnrollmentDateGroup.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Models\\SchoolViewModels folder\\EnrollmentDateGroup.cs",
+              "RelativeDocumentMoniker": "Models\\SchoolViewModels folder\\EnrollmentDateGroup.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Models\\SchoolViewModels folder\\EnrollmentDateGroup.cs",
+              "RelativeToolTip": "Models\\SchoolViewModels folder\\EnrollmentDateGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T16:21:50.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-27T16:17:44.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Students\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Students\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Students\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Students\\Index.cshtml.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv0sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:37:26.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Students\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Students\\Index.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAADwv1cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T16:37:25.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "PaginatedList.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\PaginatedList.cs",
+              "RelativeToolTip": "PaginatedList.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvyQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T16:17:25.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Students\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Students\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Students\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Students\\Create.cshtml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowCkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:37:22.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Students\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Students\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T16:37:22.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Students\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Students\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T16:37:21.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:24:26.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T16:23:55.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T16:16:47.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\skyeg\\OneDrive\\Documents\\GitHub\\MvcMovie\\ContosoUniversity\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T16:16:22.881Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
